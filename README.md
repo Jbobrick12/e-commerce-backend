@@ -9,5 +9,8 @@ Source schema.sql using MySQL with Node.
 Use npm run seed to seed the database.
 npm start.
 
+## Credits
+I worked with Nima Sherpa and Andrew Stave on this assignment
+
 ## Links
 https://drive.google.com/file/d/1-0GHGeR2R5011vJExOGDxA9H8eR8ntyB/view
